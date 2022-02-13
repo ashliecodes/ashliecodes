@@ -1,4 +1,7 @@
 ### Hi there 👋🏾 I'm Ashlie
+
+![Alt text]("My banner")
+
 - 💁🏾‍♀️ I'm a London based full-stack developer
 - 🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js
 - 😄 Pronouns: she/her
