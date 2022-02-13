@@ -1,5 +1,3 @@
-### Hi there 👋🏾 I'm Ashlie
-
 ![](banner/github-banner.jpg)
 
 - 💁🏾‍♀️ I'm a London based full-stack developer
