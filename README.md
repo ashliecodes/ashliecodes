@@ -4,6 +4,8 @@
 
 - 💁🏾‍♀️ I'm a London based full-stack developer
 - 🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js
+- 👯 I’m looking to collaborate on any project that'll allow me to learn and experiment!
+- 📫 How to reach me: ashlieprempeh@hotmail.co.uk
 - 😄 Pronouns: she/her
 - ⚡ Fun fact(s): I love roller-skating and baking! I also used to work in the legal industry
 
