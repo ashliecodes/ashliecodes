@@ -1,6 +1,6 @@
 ### Hi there 👋🏾 I'm Ashlie
 
-![Alt text]("My banner")
+![](banner/github-banner.jpg)
 
 - 💁🏾‍♀️ I'm a London based full-stack developer
 - 🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js
