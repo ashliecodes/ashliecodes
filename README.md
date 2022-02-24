@@ -8,6 +8,16 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact(s): I love roller-skating and baking! I also used to work in the legal industry
 
+### 🤝 Connect with me:
+<a href="www.linkedin.com/in/ashlie-p-a0131317a">
+<img src="images/linkedin.png" alt="alternate text"
+width="30px" height="height">
+
+<a href="https://twitter.com/ashliecodes">
+<img src="images/twitter.png" alt="alternate text"
+width="30px" height="height">
+</a> 
+
 <!--
 **ashliecodes/ashliecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,14 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love roller-skating and baking!
 
-### 🤝 Connect with me:
-<a href="www.linkedin.com/in/ashlie-p-a0131317a">
-<img src="images/linkedin.png" alt="alternate text"
-width="30px" height="height">
 
-<a href="https://twitter.com/ashliecodes">
-<img src="images/twitter.png" alt="alternate text"
-width="30px" height="height">
-</a> 
 
 -->
