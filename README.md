@@ -21,4 +21,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love roller-skating and baking!
+
+### 🤝 Connect with me:
+<a href="www.linkedin.com/in/ashlie-p-a0131317a">
+<img src="images/linkedin.png" alt="alternate text"
+width="30px" height="height">
+
+<a href="https://twitter.com/ashliecodes">
+<img src="images/twitter.png" alt="alternate text"
+width="30px" height="height">
+</a> 
+
 -->
