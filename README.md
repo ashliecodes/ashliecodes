@@ -15,6 +15,7 @@
 ### 🤝 Connect with me:
 <a href="www.linkedin.com/in/ashlie-p-a0131317a">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a> 
 
 <a href="https://twitter.com/ashliecodes">
 <img src="images/twitter.png" alt="alternate text"
