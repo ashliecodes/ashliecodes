@@ -4,7 +4,6 @@
   <<<<<<< HEAD
 - # 🌱 I’m currently learning JavaScript, Node, PostgreSQL, React and Next.js
 - 🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js with the School of Code
-  > > > > > > > 47a2eae2a6318aceeb4e0431c14ccaa86973f7ef
 - 👯 I’m looking to collaborate on any project that'll allow me to learn and experiment!
 - 📫 How to reach me: @ashliecodes on twitter!
 - 😄 Pronouns: she/her
