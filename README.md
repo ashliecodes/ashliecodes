@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D87093&lines=Hey+there%2C+nice+to+meet+you.+I'm+Ashlie!)](https://git.io/typing-svg)
 ![](banner/github-banner.jpg)
 
 - 💁🏾‍♀️ I'm a London based full-stack developer
