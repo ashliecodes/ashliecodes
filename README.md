@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any project that'll allow me to learn and experiment!
 - 📫 How to reach me: @ashliecodes on twitter!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact(s): I love roller-skating and baking! I also used to work in the legal industry
+- ⚡ Fun fact(s): I love anime, roller-skating and baking! I also used to work in the legal industry
 
 ### 👩🏾‍💻 Technologies
 
